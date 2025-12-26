@@ -1,0 +1,6 @@
+# External dependencies for ekg.py
+psutil
+keyboard
+pyotp
+
+# Note: tkinter is part of the Python standard library on Windows (no pip package needed)
